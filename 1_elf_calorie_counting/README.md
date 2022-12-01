@@ -1,4 +1,4 @@
-# ElfCaloriCounting
+# ElfCalorieCounting
 
 **TODO: Add description**
 
